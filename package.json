@@ -1,0 +1,16 @@
+{
+  "name": "boot_thymleaf",
+  "version": "1.0.0",
+  "description": "[ Spring Boot으로 웹 출시까지 ](https://www.youtube.com/playlist?list=PLPtc9qD1979DG675XufGs0-gBeb2mrona)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwindcss:watch": "npx tailwindcss -i ./src/main/resources/static/input.css -o ./src/main/resources/static/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.0"
+  }
+}
