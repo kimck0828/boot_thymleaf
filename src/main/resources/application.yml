@@ -1,0 +1,10 @@
+#spring.application.name=boot_thymleaf
+spring:
+  application:
+    name: boot_thymleaf
+#  thymeleaf:
+#    cache: false # reload
+#    #    prefix: file:src/main/resources/templates # classpath:/templates
+#    prefix: classpath:/templates
+#    suffix: .html
+#    encoding: UTF-8
